@@ -3,7 +3,7 @@
 #include <string.h>
 #include <windows.h>
 using namespace std;
-//vcringe37_, stepsister404
+
 int main()
 {
     char lel[1000000] = "";
