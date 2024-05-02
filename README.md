@@ -1,3 +1,5 @@
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/V037/Cock_Stretcher">
+
 # Cock_Stretcher
 This repository contains a collection of files related to Cock Stretcher, a penis enlargement device. The files include instructions for using the device, diagrams of its components, images of the device in use, and reviews from people who have used it. The repository also contains code for a web-based version of the device, as well as code for an Android and iOS app.
 
